@@ -1,4 +1,13 @@
-## Hi there 👋
+## **Seja bem vindo** 🍻
+
+### Sou aluna da _Alura Start_
+
+### E-mail para contato: 📧
+
+- 0000111406855xsp@al.educacao.sp.gov.br
+
+  ![](https://media.tenor.com/zqm6WMNOXm0AAAAM/peachcute-peachhappy.gif)
+
 
 <!--
 **KauffmanEvellyn/KauffmanEvellyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
